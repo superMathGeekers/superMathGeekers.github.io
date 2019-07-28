@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://mathgeekers.github.io/mathgeekers/help</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mathgeekers.github.io/mathgeekers/en/help" /> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/index</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mathgeekers.github.io/mathgeekers/en/index" /> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/users</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mathgeekers.github.io/mathgeekers/en/users" /> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/blog/2019/07/20/beijing-gongjiao</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/blog/2019/07/19/science-mange</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/blog/2019/07/18/rui-chuang</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/blog/2017/10/24/human-resource-manage</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/blog/2017/09/26/smart-city-manage</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/blog/2017/09/25/food-safety</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/blog/2017/04/10/rettc</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/blog/2016/03/11/national-energy-mode</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/docs/doc1</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mathgeekers.github.io/mathgeekers/docs/doc1" /> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/docs/doc2</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mathgeekers.github.io/mathgeekers/docs/doc2" /> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/docs/doc3</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mathgeekers.github.io/mathgeekers/docs/doc3" /> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/docs/doc4</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mathgeekers.github.io/mathgeekers/docs/doc4" /> </url>
+<url> <loc>https://mathgeekers.github.io/mathgeekers/docs/doc5</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://mathgeekers.github.io/mathgeekers/docs/doc5" /> </url>
+</urlset>
