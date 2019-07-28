@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://mathgeekers.github.io/mathgeekers/blog</id>
+    <id>https://superMathGeekers.github.io/blog</id>
     <title>数学极客 Blog</title>
     <updated>2019-07-20T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
-    <link rel="alternate" href="https://mathgeekers.github.io/mathgeekers/blog"/>
+    <link rel="alternate" href="https://superMathGeekers.github.io/blog"/>
     <subtitle>The best place to stay up-to-date with the latest 数学极客 news and events.</subtitle>
-    <logo>https://mathgeekers.github.io/mathgeekers/img/mathgeek.png</logo>
+    <logo>https://superMathGeekers.github.io/img/mathgeek.png</logo>
     <rights>Copyright © 2019 数学极客</rights>
     <entry>
         <title type="html"><![CDATA[北京公交线路分析优化系统]]></title>
-        <id>https://mathgeekers.github.io/mathgeekers/blog/2019/07/20/beijing-gongjiao.html</id>
-        <link href="https://mathgeekers.github.io/mathgeekers/blog/2019/07/20/beijing-gongjiao.html">
+        <id>https://superMathGeekers.github.io/blog/2019/07/20/beijing-gongjiao.html</id>
+        <link href="https://superMathGeekers.github.io/blog/2019/07/20/beijing-gongjiao.html">
         </link>
         <updated>2019-07-20T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>依托于公交公司提供的公交IC卡刷卡数据，分析不同时间段内乘客乘车的热度分析，进而挖掘出乘客在不同时段内频繁乘客和下车的地点，服务于公交线路优化，区间公交设计和快速和专用公交线路制定。</p> <p><img src="/img/beijing-gongjiao-01.png"></p> ]]></summary>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[科研经费预算管理系统]]></title>
-        <id>https://mathgeekers.github.io/mathgeekers/blog/2019/07/19/science-mange.html</id>
-        <link href="https://mathgeekers.github.io/mathgeekers/blog/2019/07/19/science-mange.html">
+        <id>https://superMathGeekers.github.io/blog/2019/07/19/science-mange.html</id>
+        <link href="https://superMathGeekers.github.io/blog/2019/07/19/science-mange.html">
         </link>
         <updated>2019-07-19T06:00:00Z</updated>
         <summary type="html"><![CDATA[<h2><a class="anchor" aria-hidden="true" id="科研经费预算管理系统"></a><a href="#科研经费预算管理系统" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>科研经费预算管理系统</h2> <ul> <li>自动计算汇总科研经费</li> <li>可视化提示编制要求</li> <li>申报协同编制</li> <li>数据探索分析</li> <li>一键输出申报项目书</li> </ul> <p><img src="/img/rui-chuang-01.png"></p> <h2><a class="anchor" aria-hidden="true" id="信息发布cms系统"></a><a href="#信息发布cms系统" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>信息发布CMS系统</h2> <ul> <li>支持文章发布</li> <li>支持站内关键词搜索</li> <li>上传图片支持水印设置</li> <li>API支持，方便APP或其他第三方调用数据</li> <li>支持微信、朋友圈分享</li> <li>模板化、高性能、通用性强、部署灵活</li> </ul> <p><img src="/img/rui-chuang-02.png"></p> ]]></summary>
@@ -32,8 +32,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[锐创动力-信息发布CMS系统]]></title>
-        <id>https://mathgeekers.github.io/mathgeekers/blog/2019/07/18/rui-chuang.html</id>
-        <link href="https://mathgeekers.github.io/mathgeekers/blog/2019/07/18/rui-chuang.html">
+        <id>https://superMathGeekers.github.io/blog/2019/07/18/rui-chuang.html</id>
+        <link href="https://superMathGeekers.github.io/blog/2019/07/18/rui-chuang.html">
         </link>
         <updated>2019-07-18T06:00:00Z</updated>
         <summary type="html"><![CDATA[<h2><a class="anchor" aria-hidden="true" id="信息发布cms系统"></a><a href="#信息发布cms系统" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>信息发布CMS系统</h2> <ul> <li>支持文章发布</li> <li>支持站内关键词搜索</li> <li>上传图片支持水印设置</li> <li>API支持，方便APP或其他第三方调用数据</li> <li>支持微信、朋友圈分享</li> <li>模板化、高性能、通用性强、部署灵活</li> </ul> <p><img src="/img/rui-chuang-01.png"></p> ]]></summary>
@@ -43,8 +43,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[金隅人力资源管理系统]]></title>
-        <id>https://mathgeekers.github.io/mathgeekers/blog/2017/10/24/human-resource-manage.html</id>
-        <link href="https://mathgeekers.github.io/mathgeekers/blog/2017/10/24/human-resource-manage.html">
+        <id>https://superMathGeekers.github.io/blog/2017/10/24/human-resource-manage.html</id>
+        <link href="https://superMathGeekers.github.io/blog/2017/10/24/human-resource-manage.html">
         </link>
         <updated>2017-10-24T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>人力资源信息系统是数学极客发布的一套完全基于Java Web的网络人力管理系统，能帮助用户解决薪资管理，人员管理，人员考核的全方位系统。 <img src="/img/human-resource-manage-01.png"></p> ]]></summary>
@@ -54,8 +54,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[永兴智慧城市管理系统]]></title>
-        <id>https://mathgeekers.github.io/mathgeekers/blog/2017/09/26/smart-city-manage.html</id>
-        <link href="https://mathgeekers.github.io/mathgeekers/blog/2017/09/26/smart-city-manage.html">
+        <id>https://superMathGeekers.github.io/blog/2017/09/26/smart-city-manage.html</id>
+        <link href="https://superMathGeekers.github.io/blog/2017/09/26/smart-city-manage.html">
         </link>
         <updated>2017-09-26T06:00:00Z</updated>
         <summary type="html"><![CDATA[<h2><a class="anchor" aria-hidden="true" id="智慧城市管理系统"></a><a href="#智慧城市管理系统" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>智慧城市管理系统</h2> <ul> <li>自定义工作流管理</li> <li>邮箱系统</li> <li>备份恢复功能</li> <li>绿色城市考核管理</li> </ul> <p><img src="/img/smart-city-manage-01.png"></p> ]]></summary>
@@ -65,8 +65,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[食品安全数据分析与风险评估系统]]></title>
-        <id>https://mathgeekers.github.io/mathgeekers/blog/2017/09/25/food-safety.html</id>
-        <link href="https://mathgeekers.github.io/mathgeekers/blog/2017/09/25/food-safety.html">
+        <id>https://superMathGeekers.github.io/blog/2017/09/25/food-safety.html</id>
+        <link href="https://superMathGeekers.github.io/blog/2017/09/25/food-safety.html">
         </link>
         <updated>2017-09-25T06:00:00Z</updated>
         <summary type="html"><![CDATA[<h2><a class="anchor" aria-hidden="true" id="食品安全数据分析与风险系统"></a><a href="#食品安全数据分析与风险系统" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>食品安全数据分析与风险系统</h2> <ul> <li>评估报告管理</li> <li>食品安全数据采集</li> <li>批量数据入库</li> <li>数据探索分析</li> <li>数据导出、数据备份和恢复</li> </ul> <p><img src="/img/food-safety-01.png"></p> ]]></summary>
@@ -76,8 +76,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[RETTC技术转移系统]]></title>
-        <id>https://mathgeekers.github.io/mathgeekers/blog/2017/04/10/rettc.html</id>
-        <link href="https://mathgeekers.github.io/mathgeekers/blog/2017/04/10/rettc.html">
+        <id>https://superMathGeekers.github.io/blog/2017/04/10/rettc.html</id>
+        <link href="https://superMathGeekers.github.io/blog/2017/04/10/rettc.html">
         </link>
         <updated>2017-04-10T06:00:00Z</updated>
         <summary type="html"><![CDATA[<h2><a class="anchor" aria-hidden="true" id="rettc技术转移系统"></a><a href="#rettc技术转移系统" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>RETTC技术转移系统</h2> <ul> <li>信息发布管理</li> <li>技术征集管理</li> <li>在线视频播放</li> <li>专家信息录入</li> <li>技术审核管理</li> </ul> <p><img src="/img/rettc-01.png"></p> <h2><a class="anchor" aria-hidden="true" id="rettc移动端技术转移系统"></a><a href="#rettc移动端技术转移系统" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewbox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"/></svg></a>RETTC移动端技术转移系统</h2> <ul> <li>在线信息浏览</li> <li>在线视频播放</li> <li>在线技术浏览</li> <li>在线分享技术</li> </ul> <p><img src="/img/rettc-02.png"></p> ]]></summary>
@@ -87,8 +87,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[国家能源模型集成平台]]></title>
-        <id>https://mathgeekers.github.io/mathgeekers/blog/2016/03/11/national-energy-mode.html</id>
-        <link href="https://mathgeekers.github.io/mathgeekers/blog/2016/03/11/national-energy-mode.html">
+        <id>https://superMathGeekers.github.io/blog/2016/03/11/national-energy-mode.html</id>
+        <link href="https://superMathGeekers.github.io/blog/2016/03/11/national-energy-mode.html">
         </link>
         <updated>2016-03-11T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>基于 WEB 平台和数据库技术，将本中心的研究成果作为开发对象和核心内容，以期实现以下模拟和分析工作：</p> <ul> <li>国内能源系统/经济相互作用</li> <li>国内/世界能源市场相互作用</li> <li>能源系统/环境相互作用</li> <li>随时间推移做出的经济决策</li> </ul> <p><img src="/img/national-energy-mode-01.png"></p> ]]></summary>
